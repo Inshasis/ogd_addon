@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include ogd_addon *.css
+recursive-include ogd_addon *.csv
+recursive-include ogd_addon *.html
+recursive-include ogd_addon *.ico
+recursive-include ogd_addon *.js
+recursive-include ogd_addon *.json
+recursive-include ogd_addon *.md
+recursive-include ogd_addon *.png
+recursive-include ogd_addon *.py
+recursive-include ogd_addon *.svg
+recursive-include ogd_addon *.txt
+recursive-exclude ogd_addon *.pyc
