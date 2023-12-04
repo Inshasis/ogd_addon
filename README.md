@@ -1,6 +1,6 @@
 ## One Green Diary
 
-One Green Diary Customization
+OGD Customization
 
 #### License
 
