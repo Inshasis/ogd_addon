@@ -1,0 +1,35 @@
+{
+ "cards": [
+  {
+   "card": "Open Events"
+  },
+  {
+   "card": "Completed Events"
+  },
+  {
+   "card": "Closed Events"
+  }
+ ],
+ "charts": [
+  {
+   "chart": "Status Wise Event",
+   "width": "Half"
+  },
+  {
+   "chart": "Event Category Wise Chart",
+   "width": "Half"
+  }
+ ],
+ "creation": "2024-01-18 00:42:49.097401",
+ "dashboard_name": "Events",
+ "docstatus": 0,
+ "doctype": "Dashboard",
+ "idx": 0,
+ "is_default": 0,
+ "is_standard": 1,
+ "modified": "2024-01-18 01:00:30.695482",
+ "modified_by": "Administrator",
+ "module": "One Green Diary",
+ "name": "Events",
+ "owner": "Administrator"
+}
