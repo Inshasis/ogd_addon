@@ -1,6 +1,6 @@
 {
  "aggregate_function_based_on": "",
- "color": "#db911a",
+ "color": "#ff9d00",
  "creation": "2024-01-18 00:46:44.357809",
  "docstatus": 0,
  "doctype": "Number Card",
@@ -12,7 +12,7 @@
  "is_public": 1,
  "is_standard": 1,
  "label": "Closed Events",
- "modified": "2024-01-18 01:03:38.808978",
+ "modified": "2024-01-18 01:15:26.637720",
  "modified_by": "Administrator",
  "module": "One Green Diary",
  "name": "Closed Events",

@@ -1,6 +1,6 @@
 {
  "aggregate_function_based_on": "",
- "color": "#d10404",
+ "color": "#ff0000",
  "creation": "2024-01-18 00:44:53.752797",
  "docstatus": 0,
  "doctype": "Number Card",
@@ -12,7 +12,7 @@
  "is_public": 1,
  "is_standard": 1,
  "label": "Open Events",
- "modified": "2024-01-18 01:03:18.566089",
+ "modified": "2024-01-18 01:15:56.245275",
  "modified_by": "Administrator",
  "module": "One Green Diary",
  "name": "Open Events",

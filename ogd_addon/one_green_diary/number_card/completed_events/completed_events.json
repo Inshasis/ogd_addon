@@ -1,6 +1,6 @@
 {
  "aggregate_function_based_on": "",
- "color": "#0bb023",
+ "color": "#04de25",
  "creation": "2024-01-18 00:45:55.624145",
  "docstatus": 0,
  "doctype": "Number Card",
@@ -12,7 +12,7 @@
  "is_public": 1,
  "is_standard": 1,
  "label": "Completed Events",
- "modified": "2024-01-18 01:03:30.963670",
+ "modified": "2024-01-18 01:16:44.166591",
  "modified_by": "Administrator",
  "module": "One Green Diary",
  "name": "Completed Events",
